@@ -1,4 +1,4 @@
-# Adversarial Training
+# Adversarial Training for CNN-Based Intrusion Detection Systems
 
 This project utilizes the [UNSW-NB15 Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset), which comprises a hybrid of real modern normal activities and synthetic contemporary attack behaviors. It includes nine types of attacks: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. The dataset contains approximately 2.54 million records, with 175,341 in the training set and 82,332 in the testing set.
 
