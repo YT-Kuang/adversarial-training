@@ -2,7 +2,7 @@
 
 This project utilizes the [UNSW-NB15 Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset), which comprises a hybrid of real modern normal activities and synthetic contemporary attack behaviors. It includes nine types of attacks: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms. The dataset contains approximately 2.54 million records, with 175,341 in the training set and 82,332 in the testing set.
 
-## Citations:
+Dataset citations:
 - Moustafa, Nour, and Jill Slay. "UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)." *Military Communications and Information Systems Conference (MilCIS)*, 2015. IEEE, 2015.
 - Moustafa, Nour, and Jill Slay. "The evaluation of Network Anomaly Detection Systems: Statistical analysis of the UNSW-NB15 dataset and the comparison with the KDD99 dataset." *Information Security Journal: A Global Perspective* (2016): 1-14.
 - Moustafa, Nour, et al. "Novel geometric area analysis technique for anomaly detection using trapezoidal area estimation on large-scale networks." *IEEE Transactions on Big Data* (2017).
